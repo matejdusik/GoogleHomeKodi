@@ -356,6 +356,7 @@ then just repeat steps 2 and 3 of the installation above.
   
 1. Just click here:  
   [![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/omertu/googlehomekodi.git)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmatejdusik%2FGoogleHomeKodi.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmatejdusik%2FGoogleHomeKodi?ref=badge_shield)
 
 </details>
 
@@ -741,3 +742,7 @@ I hope you find this helpful!
 If you'd like, you can give me a cup of coffee :)  
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7KPWVMH4T5UTJ&lc=US&item_name=Kodi%20control%20project&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmatejdusik%2FGoogleHomeKodi.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmatejdusik%2FGoogleHomeKodi?ref=badge_large)
